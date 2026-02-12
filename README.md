@@ -2,7 +2,7 @@
 
 A web-based application that allows users to control audio volume and frequency using hand gestures via computer's object detection.
 
-![Visual Equalizer Demo](demo.gif) *Example of the Visual Equalizer in action will go here*
+
 
 ## Features
 
@@ -60,3 +60,4 @@ A web-based application that allows users to control audio volume and frequency 
 - Implement gesture customization
 - Add support for mobile devices
 - Include demo audio files
+
